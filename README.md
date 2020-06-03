@@ -12,7 +12,7 @@ All you need to do is paste the url generated on the console onto your web brows
 
 A QuoteRunner is also made which makes use of the API made above and imports it as FacebookQuoteAPI.jar to make use of it. After successful run
 of the application, a success note is printed on the console that the image is successfully posted which can be verified by going to the respective
-Facebook accoint.
+Facebook account.
 
 Note** The user must make necessary customisations/changes for the access token of Facebook for his/her valid Facebook account.
     ** Chromedriver and geckodriver were added to completely automate the API which would be done in next version.
